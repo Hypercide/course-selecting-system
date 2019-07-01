@@ -1,0 +1,18 @@
+{
+	"contentManagement": [
+		{
+			"title": "课程列表",
+			"icon": "icon-text",
+			"href": "http://course.cn/Homepage/course",
+			"spread": false
+		},
+		{
+			"title": "用户中心",
+			"icon": "&#xe612;",
+			"href": "http://course.cn/Homepage/user",
+			"spread": false
+		}
+	]
+}
+
+
