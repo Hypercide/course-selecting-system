@@ -1,2 +1,2 @@
 ## 预览
-[http://www.dedsec.top/](<a href="http://www.dedsec.top/" target="_blank">)
+[http://www.dedsec.top/](http://www.dedsec.top/)
